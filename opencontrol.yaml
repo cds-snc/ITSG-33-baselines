@@ -1,0 +1,12 @@
+schema_version: "1.0.0"
+name: ITSG-33 Security Control Baselines
+metadata:
+  description: "ITSG-33 baseline templates"
+  maintainers:
+    - Damien Trudel (damien.trudel@pwgsc.gc.ca)
+certifications:
+  - ./example1.yaml
+  - ./light.yaml
+  - ./minimum-per-release.yaml
+  - ./PBMM.yaml
+  - ./SMM.yaml

@@ -1,0 +1,40 @@
+name: minimum-per-release
+standards:
+
+  ITSG-33a:
+    AC-2: {}      # Account Management
+    AC-3: {}      # Access Enforcement
+    AC-6: {}      # Least Priviledge 
+    AU-2: {}      # Auditable Events
+    AU-3: {}      # Content Of Audit Records
+    AU-3 (1): {}  # Content Of Audit Records
+    AU-6: {}      # Audit Review, Analysis, And Reporting
+    AU-8: {}      # Time Stamps
+    AU-8 (1): {}  # Time Stamps
+    CA-2 (2): {}  # Security Assessments | Specialized Assessments
+    CA-8: {}      # Penetration Testing
+    CA-8 (1): {}  # Penetration Testing
+    CM-2: {}      # Baseline Configuration 
+    CM-6 (1): {}  # Configuration Settings
+    CM-7: {}      # Least Functionality
+    CM-8: {}      # Information System Component Inventory
+    CM-8 (1): {}  # Information System Component Inventory - Updates During Installs and Removals
+    CM-8 (4): {}  # Information System Component Inventory - Accountable Information
+    IA-5 (7): {}  # Authenticator Management - No embedded unencrypted static keys
+    PL-8: {}      # Information Security Architecture
+    RA-5: {}      # Vulnerability Scanning
+    SA-11: {}     # Developer Security Testing
+    SA-11 (1): {} # Static Code Analysis
+    SA-11 (4): {} # Manual Code Reviews
+    SA-12: {}     # Supply Chain Protection
+    SA-15 (4): {} # Threat Modeling / Vulnerability Analysis
+    SA-22: {}     # Unsupported System Components
+    SC-7: {}      # Boundary Protection
+    SC-8: {}      # Transmission confidentiality and Integrity
+    SC-12: {}     # Cryptographic Key Management and Establishment
+    SC-13: {}     # Cryptographic Protection
+    SI-2: {}      # Flaw remediation
+    SI-5: {}      # Security Alerts, Advisories, and Directives
+    SI-10: {}     # Information Input Validation
+    SI-11: {}     # Error Handling
+    SI-17: {}     # Fail-Safe Procedures
